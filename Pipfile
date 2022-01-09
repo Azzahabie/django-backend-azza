@@ -9,6 +9,7 @@ django-cors-headers = "*"
 django-heroku = "*"
 gunicorn = "*"
 python-dotenv="*"
+djangorestframework="*"
 
 [dev-packages]
 autopep8 = "*"
